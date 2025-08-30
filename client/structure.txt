@@ -1,0 +1,138 @@
+.
+├── app
+│   ├── admin
+│   │   └── page.tsx
+│   ├── bounties
+│   │   ├── loading.tsx
+│   │   └── page.tsx
+│   ├── connect
+│   │   └── page.tsx
+│   ├── create
+│   │   └── page.tsx
+│   ├── explore
+│   │   ├── loading.tsx
+│   │   └── page.tsx
+│   ├── globals.css
+│   ├── governance
+│   │   └── page.tsx
+│   ├── layout.tsx
+│   ├── marketplace
+│   │   ├── loading.tsx
+│   │   └── page.tsx
+│   ├── page.tsx
+│   ├── profile
+│   │   └── page.tsx
+│   ├── stake
+│   │   └── page.tsx
+│   ├── story
+│   │   └── [id]
+│   │       ├── page.tsx
+│   │       └── propose
+│   │           └── page.tsx
+│   └── write
+│       └── page.tsx
+├── components
+│   ├── branch-map.tsx
+│   ├── chapter-proposal.tsx
+│   ├── contribution-tracker.tsx
+│   ├── moderation-panel.tsx
+│   ├── navigation.tsx
+│   ├── nft-badge-gallery.tsx
+│   ├── revenue-dashboard.tsx
+│   ├── staking-widget.tsx
+│   ├── theme-provider.tsx
+│   ├── theme-toggle.tsx
+│   ├── ui
+│   │   ├── accordion.tsx
+│   │   ├── alert-dialog.tsx
+│   │   ├── alert.tsx
+│   │   ├── aspect-ratio.tsx
+│   │   ├── avatar.tsx
+│   │   ├── badge.tsx
+│   │   ├── breadcrumb.tsx
+│   │   ├── button.tsx
+│   │   ├── calendar.tsx
+│   │   ├── card.tsx
+│   │   ├── carousel.tsx
+│   │   ├── chart.tsx
+│   │   ├── checkbox.tsx
+│   │   ├── collapsible.tsx
+│   │   ├── command.tsx
+│   │   ├── context-menu.tsx
+│   │   ├── dialog.tsx
+│   │   ├── drawer.tsx
+│   │   ├── dropdown-menu.tsx
+│   │   ├── form.tsx
+│   │   ├── hover-card.tsx
+│   │   ├── input-otp.tsx
+│   │   ├── input.tsx
+│   │   ├── label.tsx
+│   │   ├── menubar.tsx
+│   │   ├── navigation-menu.tsx
+│   │   ├── pagination.tsx
+│   │   ├── popover.tsx
+│   │   ├── progress.tsx
+│   │   ├── radio-group.tsx
+│   │   ├── resizable.tsx
+│   │   ├── scroll-area.tsx
+│   │   ├── select.tsx
+│   │   ├── separator.tsx
+│   │   ├── sheet.tsx
+│   │   ├── sidebar.tsx
+│   │   ├── skeleton.tsx
+│   │   ├── slider.tsx
+│   │   ├── sonner.tsx
+│   │   ├── switch.tsx
+│   │   ├── table.tsx
+│   │   ├── tabs.tsx
+│   │   ├── textarea.tsx
+│   │   ├── toaster.tsx
+│   │   ├── toast.tsx
+│   │   ├── toggle-group.tsx
+│   │   ├── toggle.tsx
+│   │   ├── tooltip.tsx
+│   │   ├── use-mobile.tsx
+│   │   └── use-toast.ts
+│   ├── voting-widget.tsx
+│   ├── wallet-connect-button.tsx
+│   └── wallet-provider.tsx
+├── components.json
+├── contracts
+│   ├── foundry.toml
+│   ├── package.json
+│   ├── script
+│   │   └── Deploy.s.sol
+│   └── src
+│       ├── ContributionNFT.sol
+│       ├── RevenueSplit.sol
+│       ├── StoryDAO.sol
+│       ├── StoryFactory.sol
+│       ├── StoryRegistry.sol
+│       └── VotingModule.sol
+├── hooks
+│   ├── use-contract.ts
+│   ├── use-mobile.tsx
+│   └── use-toast.ts
+├── lib
+│   ├── contracts.ts
+│   ├── story-utils.ts
+│   └── utils.ts
+├── next.config.mjs
+├── package.json
+├── package-lock.json
+├── pnpm-lock.yaml
+├── postcss.config.mjs
+├── public
+│   ├── diverse-user-avatars.png
+│   ├── placeholder.jpg
+│   ├── placeholder-logo.png
+│   ├── placeholder-logo.svg
+│   ├── placeholder.svg
+│   └── placeholder-user.jpg
+├── structure.txt
+├── styles
+│   └── globals.css
+├── tailwind.config.ts
+└── tsconfig.json
+
+24 directories, 112 files
