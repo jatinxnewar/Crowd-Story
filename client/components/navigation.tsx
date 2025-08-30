@@ -36,7 +36,7 @@ export function Navigation() {
 					<div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground">
 						<BookOpen className="h-5 w-5" />
 					</div>
-					<span className="font-serif text-xl font-bold">StoryDAO</span>
+					<span className="font-serif text-xl font-bold">CrowdStory</span>
 				</Link>
 
 				{/* Desktop Navigation */}

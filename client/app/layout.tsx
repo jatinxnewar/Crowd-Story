@@ -17,7 +17,7 @@ const openSans = Open_Sans({
 })
 
 export const metadata: Metadata = {
-	title: "StoryDAO - Decentralized Storytelling Platform",
+	title: "CrowdStory - Decentralized Storytelling Platform",
 	description: "Create, vote on, and monetize collaborative stories on the blockchain",
 }
 
